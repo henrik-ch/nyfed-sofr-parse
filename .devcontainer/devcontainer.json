@@ -15,7 +15,8 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"GitHub.vscode-pull-request-github",
-		"ritwickdey.liveserver"
+		"ritwickdey.liveserver",
+		"nopjmp.fairyfloss"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
