@@ -1,7 +1,7 @@
 [
   {
     "refRateType": "SOFR",
-    "refRateDt": "2022-07-06",
+    "refRateDt": "2022-07-07",
     "revisionIndicator": false,
     "dailyRate": 1.54,
     "ratePercentile1st": 1.45,
