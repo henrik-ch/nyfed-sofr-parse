@@ -1,14 +1,14 @@
 [
   {
     "refRateType": "SOFR",
-    "refRateDt": "2022-09-30",
+    "refRateDt": "2022-10-03",
     "revisionIndicator": false,
-    "dailyRate": 2.98,
-    "ratePercentile1st": 2.88,
-    "ratePercentile25th": 2.95,
-    "ratePercentile75th": 3.03,
+    "dailyRate": 3,
+    "ratePercentile1st": 2.93,
+    "ratePercentile25th": 2.97,
+    "ratePercentile75th": 3.05,
     "ratePercentile99th": 3.2,
-    "tradingVolume": 956,
+    "tradingVolume": 1009,
     "footnoteId": 0
   }
 ]
