@@ -1,10 +1,10 @@
 [
   {
     "refRateType": "SOFR",
-    "refRateDt": "2023-05-17",
+    "refRateDt": "2023-05-18",
     "revisionIndicator": false,
     "dailyRate": 5.05,
-    "ratePercentile1st": 4.98,
+    "ratePercentile1st": 4.97,
     "ratePercentile25th": 5.05,
     "ratePercentile75th": 5.1,
     "ratePercentile99th": 5.15,
