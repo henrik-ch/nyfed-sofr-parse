@@ -1,14 +1,14 @@
 [
   {
     "refRateType": "SOFR",
-    "refRateDt": "2023-09-27",
+    "refRateDt": "2023-09-28",
     "revisionIndicator": false,
-    "dailyRate": 5.32,
-    "ratePercentile1st": 5.27,
+    "dailyRate": 5.31,
+    "ratePercentile1st": 5.26,
     "ratePercentile25th": 5.3,
-    "ratePercentile75th": 5.39,
+    "ratePercentile75th": 5.38,
     "ratePercentile99th": 5.43,
-    "tradingVolume": 1388,
+    "tradingVolume": 1535,
     "footnoteId": 0
   }
 ]
