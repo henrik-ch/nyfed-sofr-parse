@@ -1,14 +1,14 @@
 [
   {
     "refRateType": "SOFR",
-    "refRateDt": "2024-12-03",
+    "refRateDt": "2024-12-04",
     "revisionIndicator": false,
-    "dailyRate": 4.64,
+    "dailyRate": 4.59,
     "ratePercentile1st": 4.55,
-    "ratePercentile25th": 4.6,
-    "ratePercentile75th": 4.7,
-    "ratePercentile99th": 4.75,
-    "tradingVolume": 2329,
+    "ratePercentile25th": 4.58,
+    "ratePercentile75th": 4.66,
+    "ratePercentile99th": 4.69,
+    "tradingVolume": 2265,
     "footnoteId": 0
   }
 ]
