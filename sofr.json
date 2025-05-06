@@ -1,14 +1,14 @@
 [
   {
     "refRateType": "SOFR",
-    "refRateDt": "2025-05-01",
+    "refRateDt": "2025-05-02",
     "revisionIndicator": false,
-    "dailyRate": 4.39,
-    "ratePercentile1st": 4.31,
-    "ratePercentile25th": 4.35,
-    "ratePercentile75th": 4.45,
-    "ratePercentile99th": 4.48,
-    "tradingVolume": 2789,
+    "dailyRate": 4.36,
+    "ratePercentile1st": 4.30,
+    "ratePercentile25th": 4.33,
+    "ratePercentile75th": 4.42,
+    "ratePercentile99th": 4.46,
+    "tradingVolume": 2694,
     "footnoteId": 0
   }
 ]
